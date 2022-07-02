@@ -63,6 +63,11 @@ Open your browser at `http://localhost:9000`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## License
-[GPL License](./LICENSE) © BitVagas
-  
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
+
